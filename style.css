@@ -1,0 +1,102 @@
+p {
+    color: #000000;
+}
+img{
+  margin: 20px;
+}
+hr{
+  margin: 20px auto;
+}
+.ตัวเอง {
+    width: 300px;
+    border-radius: 200px;
+    height: 300px;
+  }  
+  body {
+
+    font-family: Arial, sans-serif;
+    margin: 20px auto;
+    padding: 0;
+    background-color: #f4f4f4;
+  }
+  
+  header {
+    text-align: center;
+    padding-bottom: 20px;
+   
+  }
+  .skills h2 {
+    font-size: 24px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  
+  .skills li {
+    font-size: 16px;
+    padding: 5px 0;
+  }
+  .skills h2 {
+    font-size: 24px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  
+  .skills ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  
+  .skills li {
+    font-size: 16px;
+    padding: 5px 0;
+  }
+  .job ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  
+  .job li {
+    font-size: 16px;
+    padding: 5px 0;
+  }
+  .education h2 {
+    font-size: 24px;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+  }
+  
+  
+  .education p {
+    font-size: 16px;
+  }
+  
+  
+  footer {
+    text-align: center;
+    padding: 20px;
+    background-color: #333;
+    color: #fff;
+    margin-top: 20px;
+  }
+  
+  
+  footer a {
+    color: #fff;
+    text-decoration: none;
+  }
+  
+  
+  footer a:hover {
+    text-decoration: underline;
+  }
+            
